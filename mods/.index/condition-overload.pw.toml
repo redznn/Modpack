@@ -1,0 +1,14 @@
+name = "Condition Overload"
+filename = "conditionoverload-1.1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "57f2d96aa591a0d0b932485fb7098528e336fd28"
+
+[update]
+[update.curseforge]
+file-id = 3237659
+project-id = 352230

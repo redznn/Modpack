@@ -1,0 +1,14 @@
+name = "Tinkers Extras"
+filename = "TinkersExtras-1.12.2-1.1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "7607822c7fec3f6b9084363bb2969c8418fc0906"
+
+[update]
+[update.curseforge]
+file-id = 2843514
+project-id = 285238
