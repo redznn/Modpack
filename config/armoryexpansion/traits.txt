@@ -55,6 +55,7 @@
   "depthdigger",
   "tconevo.foot_fleet",
   "duritos_ranch_armor",
+  "thermalinversion",
   "tconevo.electric_armor",
   "tconevo.fae_voice_armor",
   "spiky",

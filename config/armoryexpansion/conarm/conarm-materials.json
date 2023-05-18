@@ -1,72 +1,6 @@
 [
   {
     "coreMaterialStats": {
-      "durability": 18.0,
-      "defense": 22.5,
-      "materialType": "core"
-    },
-    "platesMaterialStats": {
-      "durability": 16.652632,
-      "modifier": 19.058823,
-      "toughness": 0.0,
-      "materialType": "plates"
-    },
-    "trimMaterialStats": {
-      "extraDurability": 16.652632,
-      "materialType": "trim"
-    },
-    "identifier": "end_steel",
-    "color": -262989,
-    "type": "METAL",
-    "castable": true,
-    "craftable": false
-  },
-  {
-    "coreMaterialStats": {
-      "durability": 120.0,
-      "defense": 49.5,
-      "materialType": "core"
-    },
-    "platesMaterialStats": {
-      "durability": 11.052631,
-      "modifier": 31.764706,
-      "toughness": -0.0,
-      "materialType": "plates"
-    },
-    "trimMaterialStats": {
-      "extraDurability": 11.052631,
-      "materialType": "trim"
-    },
-    "identifier": "osgloglas",
-    "color": -9240728,
-    "type": "METAL",
-    "castable": true,
-    "craftable": false
-  },
-  {
-    "coreMaterialStats": {
-      "durability": 32.0,
-      "defense": 25.199999,
-      "materialType": "core"
-    },
-    "platesMaterialStats": {
-      "durability": 44.210526,
-      "modifier": 42.35294,
-      "toughness": -0.0,
-      "materialType": "plates"
-    },
-    "trimMaterialStats": {
-      "extraDurability": 44.210526,
-      "materialType": "trim"
-    },
-    "identifier": "energetic_alloy",
-    "color": -2518196,
-    "type": "METAL",
-    "castable": true,
-    "craftable": false
-  },
-  {
-    "coreMaterialStats": {
       "durability": 43.0,
       "defense": 9.0,
       "materialType": "core"
@@ -177,6 +111,116 @@
   },
   {
     "coreMaterialStats": {
+      "durability": 1.0,
+      "defense": 9.0,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 2.2105262,
+      "modifier": 21.17647,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 2.2105262,
+      "materialType": "trim"
+    },
+    "identifier": "treatedwood",
+    "color": -10144478,
+    "type": "METAL",
+    "castable": false,
+    "craftable": true
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 73.0,
+      "defense": 4.5,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 138.23158,
+      "modifier": 10.588235,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 138.23158,
+      "materialType": "trim"
+    },
+    "identifier": "soularium",
+    "color": -9872563,
+    "type": "METAL",
+    "castable": true,
+    "craftable": false
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 18.0,
+      "defense": 22.5,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 16.652632,
+      "modifier": 19.058823,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 16.652632,
+      "materialType": "trim"
+    },
+    "identifier": "end_steel",
+    "color": -262989,
+    "type": "METAL",
+    "castable": true,
+    "craftable": false
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 120.0,
+      "defense": 49.5,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 11.052631,
+      "modifier": 31.764706,
+      "toughness": -0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 11.052631,
+      "materialType": "trim"
+    },
+    "identifier": "osgloglas",
+    "color": -9240728,
+    "type": "METAL",
+    "castable": true,
+    "craftable": false
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 32.0,
+      "defense": 25.199999,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 44.210526,
+      "modifier": 42.35294,
+      "toughness": -0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 44.210526,
+      "materialType": "trim"
+    },
+    "identifier": "energetic_alloy",
+    "color": -2518196,
+    "type": "METAL",
+    "castable": true,
+    "craftable": false
+  },
+  {
+    "coreMaterialStats": {
       "durability": 5.0,
       "defense": 5.625,
       "materialType": "core"
@@ -237,28 +281,6 @@
     },
     "identifier": "vibrant_alloy",
     "color": -4798352,
-    "type": "METAL",
-    "castable": true,
-    "craftable": false
-  },
-  {
-    "coreMaterialStats": {
-      "durability": 73.0,
-      "defense": 4.5,
-      "materialType": "core"
-    },
-    "platesMaterialStats": {
-      "durability": 138.23158,
-      "modifier": 10.588235,
-      "toughness": 0.0,
-      "materialType": "plates"
-    },
-    "trimMaterialStats": {
-      "extraDurability": 138.23158,
-      "materialType": "trim"
-    },
-    "identifier": "soularium",
-    "color": -9872563,
     "type": "METAL",
     "castable": true,
     "craftable": false
