@@ -1,0 +1,14 @@
+name = "Mineral Tracker"
+filename = "MineralTracker-0.9.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d28909313f0e1c484b55cc705e883250721a1856"
+
+[update]
+[update.curseforge]
+file-id = 3132376
+project-id = 341787
