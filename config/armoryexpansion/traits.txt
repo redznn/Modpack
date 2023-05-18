@@ -50,6 +50,7 @@
   "tconevo.photosynthetic_armor",
   "tconevo.warping",
   "voltaic_armor",
+  "glowing",
   "infernal_armor",
   "tconevo.luminiferous",
   "depthdigger",
