@@ -1,0 +1,14 @@
+name = "Zen Utils"
+filename = "zenutils-1.13.7.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ee6359bbb561cbc7d528a0504395cdaf855635b8"
+
+[update]
+[update.curseforge]
+file-id = 4540943
+project-id = 401178
